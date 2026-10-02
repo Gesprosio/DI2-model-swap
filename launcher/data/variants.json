@@ -1,0 +1,4300 @@
+{
+ "variations": {
+  "DA_ModelVariation_BaseShambler": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleCas01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleCas01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleCas02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleCas02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleCas03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleCas03",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_BaseWalker": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas07",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas07",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas09",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas09",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas15",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas15",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas08",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas08",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas09",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas09",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas11",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas11",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Shambler_Army": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleArmy01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleArmy01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleArmy02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleArmy02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleArmy03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleArmy03",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Shambler_Beach": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemSwim01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemSwim01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemSwim02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemSwim02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemSwim03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemSwim03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleSwim01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleSwim01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleSwim02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleSwim02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleSwim03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleSwim03",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Shambler_Casual": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas06",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas06",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleCas01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleCas01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleCas02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleCas02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleCas03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleCas03",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Shambler_Glam": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemGlam01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemGlam01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemGlam02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemGlam02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleGlam01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleGlam01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleGlam02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleGlam02",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Shambler_Haus": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx1Cas01",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Shambler/SK_ShamFemEx1Cas01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx1Cas02",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Shambler/SK_ShamFemEx1Cas02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx1Cas03",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Shambler/SK_ShamFemEx1Cas03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx1Cas04",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Shambler/SK_ShamFemEx1Cas04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx1Cas05",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Shambler/SK_ShamFemEx1Cas05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx1Cas06",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Shambler/SK_ShamFemEx1Cas06",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx1Cas07",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Shambler/SK_ShamFemEx1Cas07",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx1Cas08",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Shambler/SK_ShamFemEx1Cas08",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx1Cas01",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Shambler/SK_ShamMaleEx1Cas01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx1Cas02",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Shambler/SK_ShamMaleEx1Cas02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx1Cas03",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Shambler/SK_ShamMaleEx1Cas03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx1Cas04",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Shambler/SK_ShamMaleEx1Cas04",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx1Cas05",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Shambler/SK_ShamMaleEx1Cas05",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Shambler_LAPD": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleLAPD01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleLAPD01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleLAPD02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleLAPD02",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Shambler_Lifeguard": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemLife01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemLife01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleLife01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleLife01",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Shambler_Med": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleMed01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleMed01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleMed02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleMed02",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Shambler_PalmTree_CasualFestival": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx2Cas01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Shambler/SK_ShamFemEx2Cas01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx2Cas02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Shambler/SK_ShamFemEx2Cas02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx2Cas03",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Shambler/SK_ShamFemEx2Cas03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx2Cas04",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Shambler/SK_ShamFemEx2Cas04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx2Cas05",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Shambler/SK_ShamFemEx2Cas05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx2Cas01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Shambler/SK_ShamMaleEx2Cas01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx2Cas02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Shambler/SK_ShamMaleEx2Cas02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx2Cas03",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Shambler/SK_ShamMaleEx2Cas03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx2Cas04",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Shambler/SK_ShamMaleEx2Cas04",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx2Cas05",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Shambler/SK_ShamMaleEx2Cas05",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Shambler_PalmTree_Club": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx2Spr01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Shambler/SpringBreak/SK_ShamFemEx2Spr01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx2Spr02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Shambler/SpringBreak/SK_ShamFemEx2Spr02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx2Spr03",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Shambler/SpringBreak/SK_ShamFemEx2Spr03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx2Spr04",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Shambler/SpringBreak/SK_ShamFemEx2Spr04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx2Spr01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Shambler/SpringBreak/SK_ShamMaleEx2Spr01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx2Spr02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Shambler/SpringBreak/SK_ShamMaleEx2Spr02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx2Spr03",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Shambler/SpringBreak/SK_ShamMaleEx2Spr03",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Shambler_PalmTree_Swimwear": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx2Spr01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Shambler/SpringBreak/SK_ShamFemEx2Spr01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx2Spr02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Shambler/SpringBreak/SK_ShamFemEx2Spr02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx2Spr03",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Shambler/SpringBreak/SK_ShamFemEx2Spr03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx2Spr01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Shambler/SpringBreak/SK_ShamMaleEx2Spr01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx2Spr02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Shambler/SpringBreak/SK_ShamMaleEx2Spr02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx2Spr03",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Shambler/SpringBreak/SK_ShamMaleEx2Spr03",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Shambler_PalmTree_VIP": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx2VIP01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Shambler/VIP/SK_ShamFemEx2VIP01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx2VIP02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Shambler/VIP/SK_ShamFemEx2VIP02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemEx2VIP03",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Shambler/VIP/SK_ShamFemEx2VIP03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx2VIP01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Shambler/VIP/SK_ShamMaleEx2VIP01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx2VIP02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Shambler/VIP/SK_ShamMaleEx2VIP02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleEx2VIP03",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Shambler/VIP/SK_ShamMaleEx2VIP03",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Shambler_Sewer": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas06",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas06",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleCas01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleCas01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleCas02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleCas02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleCas03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleCas03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleSewer01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleSewer01",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Shambler_Slurry": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleMeatSlurry01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleMeatSlurry01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleMeatSlurry02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleMeatSlurry02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleMeatSlurry03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleMeatSlurry03",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Shambler_Smart": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamFemCas05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Shambler/SK_ShamFemCas05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleCas02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleCas02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleCas03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleCas03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleGlam01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleGlam01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleGlam02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleGlam02",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Shambler_Smart_Kenneth": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleCas_Kenneth",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Shambler/SK_ShamMaleCas_Kenneth",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Shambler_Smart_Mabs": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleCas_Mabs",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Shambler/SK_ShamMaleCas_Mabs",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Shambler_Smart_Sean": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleCas_Sean",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Shambler/SK_ShamMaleCas_Sean",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Shambler_Smart_Timon": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleCas_Timon",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Shambler/SK_ShamMaleCas_Timon",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Shambler_WW2": [
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleWW2Filmset01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleWW2Filmset01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleWW2Filmset02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleWW2Filmset02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShamMaleWW2Filmset03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Shambler/SK_ShamMaleWW2Filmset03",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Army": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemArmy01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemArmy01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemArmy02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemArmy02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleArmy01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleArmy01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleArmy02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleArmy02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleArmy03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleArmy03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleArmy04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleArmy04",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleArmy05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleArmy05",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleArmy06",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleArmy06",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleArmy07",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleArmy07",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Beach": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemSwim01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemSwim01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemSwim02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemSwim02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemSwim03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemSwim03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemSwim04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemSwim04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemSwim05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemSwim05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemaleLrg01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/WalkerLrg/SK_WalkerFemaleLrg01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemaleLrg02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/WalkerLrg/SK_WalkerFemaleLrg02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLrg01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/WalkerLrg/SK_WalkerMaleLrg01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSwim01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSwim01",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Burning": [
+   {
+    "variant": "DA_ModelVariantAsset_BurningWalker01",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/BurningWalker/SK_BurningWalker01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_BurningWalker02",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/BurningWalker/SK_BurningWalker02",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas06",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas06",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas07",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas07",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas08",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas08",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas09",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas09",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas10",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas10",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas11",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas11",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas12",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas12",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas13",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas13",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas14",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas14",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas15",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas15",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemaleLrg03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/WalkerLrg/SK_WalkerFemaleLrg03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemaleLrg04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/WalkerLrg/SK_WalkerFemaleLrg04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemaleLrg05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/WalkerLrg/SK_WalkerFemaleLrg05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemaleLrg06",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/WalkerLrg/SK_WalkerFemaleLrg06",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemaleLrg07",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/WalkerLrg/SK_WalkerFemaleLrg07",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas04",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas05",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas06",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas06",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas07",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas07",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas08",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas08",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas09",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas09",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas10",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas10",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas11",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas11",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas12",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas12",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas13",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas13",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas14",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas14",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas15",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas15",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas16",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas16",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLrg02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/WalkerLrg/SK_WalkerMaleLrg02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLrg03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/WalkerLrg/SK_WalkerMaleLrg03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLrg04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/WalkerLrg/SK_WalkerMaleLrg04",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLrg05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/WalkerLrg/SK_WalkerMaleLrg05",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Alessa": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFem_Alessa",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieFemale/Walker/SK_WalkerFem_Alessa",
+    "female": true,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Anton": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMale_Anton",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMale_Anton",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Christian": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas07_Christian",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas07_Christian",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Claus": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas_Claus",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas_Claus",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Dario": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas06_Dario",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas06_Dario",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Denis": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas15_Denis",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas15_Denis",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Erick": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas06_Erick",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas06_Erick",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Felix": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMale_Felix",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMale_Felix",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Flavia": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFem_Flavia",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieFemale/Walker/SK_WalkerFem_Flavia",
+    "female": true,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Fritz": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMale_Fritz",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMale_Fritz",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Graham": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas_Graham",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas_Graham",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Hanno": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas_Hanno",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas_Hanno",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Henning": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMale_Henning",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMale_Henning",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Himanshu": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas01_Himanshu",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas01_Himanshu",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Ji": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFem_Ji",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieFemale/Walker/SK_WalkerFem_Ji",
+    "female": true,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Kristopher": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas_Kristopher",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas_Kristopher",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Marco": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas_Marco",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas_Marco",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_MarekM": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMale_MarekM",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMale_MarekM",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Nesar": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas_Nesar",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas_Nesar",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Obi": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas_Obi",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas_Obi",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_PAblo": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas06_Pablo",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas06_Pablo",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Per": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMale_Per",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMale_Per",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_PhilM": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMale_PhilM",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMale_PhilM",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_PK": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMale_PK",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMale_PK",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Rahul": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas01_Rahul",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas01_Rahul",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Rene": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMale_Rene",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas_Rene",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_SebL": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas15_SebL",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas15_SebL",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Sri": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMale_Sri",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMale_Sri",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Steven": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas_Steven",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas_Steven",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Thomas": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMale_Thomas",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMale_Thomas",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Tim": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMale_Tim",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMale_Tim",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_TimD": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas_TimD",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas_TimD",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_TJ": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas_TJ",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas_TJ",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Victor": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas_Victor",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas_Victor",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Yasmin": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFem_Yasmin",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieFemale/Walker/SK_WalkerFem_Yasmin",
+    "female": true,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Casual_Zygi": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMale_Zygi",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMale_Zygi",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Caustic": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCaustic01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCaustic01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCaustic02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCaustic02",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_CDC": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCDC01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCDC01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCDC02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCDC02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCDC03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCDC03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCDC01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCDC01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCDC02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCDC02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCDC03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCDC03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCDC04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCDC04",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_CDC_Nikolai": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCDC01_Nikolai",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCDC01_Nikolai",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Corrosive": [
+   {
+    "variant": "DA_ModelVariantAsset_Corrosive01",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/Corrosive/SK_Corrosive01",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Filmset": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemFilmset01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemFilmset01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemFilmset02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemFilmset02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemFilmset03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemFilmset03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemFilmset04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemFilmset04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemFilmset05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemFilmset05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleFilmSet01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleFilmSet01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleFilmSet02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleFilmSet02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleFilmSet03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleFilmSet03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleFilmSet04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleFilmSet04",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleFilmSet05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleFilmSet05",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Filmset_Julyan": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleFilmSet_Julyan",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleFilmSet_Julyan",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Filmset_Spider": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSpid01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSpid01",
+    "female": false,
+    "male": true
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSpid02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSpid02",
+    "female": false,
+    "male": true
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSpid03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSpid03",
+    "female": false,
+    "male": true
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSpid04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSpid04",
+    "female": false,
+    "male": true
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSpid05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSpid05",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Fireman": [
+   {
+    "variant": "DA_ModelVariantAsset_BurningFiremanWalker01",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/FiremanWalker/SK_BurningFiremanWalker01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_BurningFiremanWalker02",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/FiremanWalker/SK_BurningFiremanWalker02",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Food": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemFood01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemFood01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemFood02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemFood02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemFood03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemFood03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleFood01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleFood01",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_FuelTank": [
+   {
+    "variant": "DA_ModelVariantAsset_FuelTank01",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/FuelTank/SK_FuelTank01",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_FuelTank_PalmTree": [
+   {
+    "variant": "DA_ModelVariantAsset_FuelTankEx201",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombiePerk/FuelTank/SK_FuelTankEx201",
+    "female": true,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_FuelTank_WW2": [
+   {
+    "variant": "DA_ModelVariantAsset_FuelTankWW201",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/FuelTank/SK_FuelTankWW201",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Glam": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemGlam01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemGlam01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemGlam02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemGlam02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemGlam03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemGlam03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemGlam04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemGlam04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemGlam05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemGlam05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleGlam01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleGlam01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleGlam02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleGlam02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleGlam03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleGlam03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleGlam04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleGlam04",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Glam_Johannes": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleGlam_Johannes",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleGlam_Johannes",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Glam_Marek": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleGlam_Marek",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleGlam_Marek",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Glam_Moritz": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleGlam_Moritz",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleGlam_Moritz",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Glam_Simone": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleGlam01_Simone",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleGlam01_Simone",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_GrenadeVest": [
+   {
+    "variant": "DA_ModelVariantAsset_GrenadeVest01",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/GrenadeVest/SK_GrenadeVest01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_GrenadeVest02",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/GrenadeVest/SK_GrenadeVest02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_GrenadeVest03",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/GrenadeVest/SK_GrenadeVest03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_GrenadeVest04",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/GrenadeVest/SK_GrenadeVest04",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_GrenadeVest05",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/GrenadeVest/SK_GrenadeVest05",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_GrenadeVest_Bagman": [
+   {
+    "variant": "DA_ModelVariantAsset_GrenadeVestBagman01",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombiePerk/GrenadeVest/SK_GrenadeVestBagman01",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_GrenadeVest_PalmTree": [
+   {
+    "variant": "DA_ModelVariantAsset_GrenadeVestEx201",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombiePerk/GrenadeVest/SK_GrenadeVestEx201",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_GrenadeVestEx202",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombiePerk/GrenadeVest/SK_GrenadeVestEx202",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_GrenadeVestEx203",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombiePerk/GrenadeVest/SK_GrenadeVestEx203",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_GrenadeVest_Veikka": [
+   {
+    "variant": "DA_ModelVariantAsset_GrenadeVest_Veikka",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombiePerk/GrenadeVest/SK_GrenadeVest_Veikka",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_GrenadeVest_WW2": [
+   {
+    "variant": "DA_ModelVariantAsset_GrenadeVestWW201",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/GrenadeVest/SK_GrenadeVestWW201",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Haus_CulDeSac": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul03",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul04",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul05",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul06",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul06",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul07",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul07",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul08",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul08",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul10",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul10",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul11",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul11",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul12",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul12",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul03",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul05",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul05",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul06",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul06",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul07",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul07",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul08",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul08",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul09",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul09",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Haus_Deeper": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Deep01",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/Deeper/SK_WalkerFemEx1Deep01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Deep02",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/Deeper/SK_WalkerFemEx1Deep02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Deep09",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/Deeper/SK_WalkerFemEx1Deep09",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Deep13",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/Deeper/SK_WalkerFemEx1Deep13",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Deep01",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/Deeper/SK_WalkerMaleEx1Deep01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Deep02",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/Deeper/SK_WalkerMaleEx1Deep02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Deep05",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/Deeper/SK_WalkerMaleEx1Deep05",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Deep09",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/Deeper/SK_WalkerMaleEx1Deep09",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Haus_Diner": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul01",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul02",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul03",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul04",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul05",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul06",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul06",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul07",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul07",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul08",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul08",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul10",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul10",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul11",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul11",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul12",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul12",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul01",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul02",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul03",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul05",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul05",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul06",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul06",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul07",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul07",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul08",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul08",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul09",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul09",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Haus_Finale": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Finale01",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/Finale/SK_WalkerFemEx1Finale01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Finale02",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/Finale/SK_WalkerFemEx1Finale02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Finale03",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/Finale/SK_WalkerFemEx1Finale03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Finale04",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/Finale/SK_WalkerFemEx1Finale04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Finale05",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/Finale/SK_WalkerFemEx1Finale05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Finale06",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/Finale/SK_WalkerFemEx1Finale06",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Finale07",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/Finale/SK_WalkerFemEx1Finale07",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Finale01",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/Finale/SK_WalkerMaleEx1Finale01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Finale02",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/Finale/SK_WalkerMaleEx1Finale02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Finale03",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/Finale/SK_WalkerMaleEx1Finale03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Finale04",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/Finale/SK_WalkerMaleEx1Finale04",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Finale05",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/Finale/SK_WalkerMaleEx1Finale05",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Finale06",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/Finale/SK_WalkerMaleEx1Finale06",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Haus_Forest": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul01",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul02",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul03",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul04",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul05",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul06",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul06",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul07",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul07",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul08",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul08",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul10",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul10",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul11",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul11",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Cul12",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/CulDeSac/SK_WalkerFemEx1Cul12",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul01",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul02",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul03",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul05",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul05",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul06",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul06",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul07",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul07",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul08",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul08",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Cul09",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/CulDeSac/SK_WalkerMaleEx1Cul09",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Haus_MainHall": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Latex03",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx1Latex03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Latex04",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx1Latex04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Latex05",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx1Latex05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Latex06",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx1Latex06",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Latex07",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx1Latex07",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Latex08",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx1Latex08",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Latex09",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx1Latex09",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Latex10",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx1Latex10",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Latex11",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx1Latex11",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Latex12",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx1Latex12",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx1Latex13",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx1Latex13",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Latex03",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/SK_WalkerMaleEx1Latex03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Latex04",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/SK_WalkerMaleEx1Latex04",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Latex05",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/SK_WalkerMaleEx1Latex05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Latex06",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/SK_WalkerMaleEx1Latex06",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Latex07",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/SK_WalkerMaleEx1Latex07",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Latex08",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/SK_WalkerMaleEx1Latex08",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx1Latex09",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Walker/SK_WalkerMaleEx1Latex09",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Haus_RiotGear": [
+   {
+    "variant": "DA_ModelVariantAsset_RiotGearEx1NoHelmet01",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombiePerk/RiotGear/SK_RiotGearEx1NoHelmet01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_RiotGearEx1NoHelmet02",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombiePerk/RiotGear/SK_RiotGearEx1NoHelmet02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_RiotGearEx1NoHelmet03",
+    "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombiePerk/RiotGear/SK_RiotGearEx1NoHelmet03",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Hills": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemHills01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemHills01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemHills02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemHills02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemHills03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemHills03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemHills04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemHills04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemHills05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemHills05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemHills06",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemHills06",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemHills07",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemHills07",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleHills01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleHills01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleHills02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleHills02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleHills03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleHills03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleHills04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleHills04",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleHills05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleHills05",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleHills06",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleHills06",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleHills07",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleHills07",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleHills08",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleHills08",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleHills09",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleHills09",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Hotel": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemHal01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemHal01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemHal02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemHal02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleHal01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleHal01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleHal02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleHal02",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_InsectSwarm": [
+   {
+    "variant": "DA_ModelVariantAsset_InsectSwarm01",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/InsectSwarm/SK_InsectSwarm01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_InsectSwarm02",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/InsectSwarm/SK_InsectSwarm02",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_InsectSwarm_Matthias": [
+   {
+    "variant": "DA_ModelVariantAsset_InsectSwarm01_Matthias",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombiePerk/InsectSwarm/SK_InsectSwarm01_Matthias",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_InsectSwarm_Thomas": [
+   {
+    "variant": "DA_ModelVariantAsset_InsectSwarm01_Thomas",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombiePerk/InsectSwarm/SK_InsectSwarm01_Thomas",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_LAPD": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemLAPD01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemLAPD01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemLAPD02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemLAPD02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemLAPD03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemLAPD03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLAPD01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleLAPD01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLAPD02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleLAPD02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLAPD03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleLAPD03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLAPD04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleLAPD04",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLAPD05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleLAPD05",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Lifeguard": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemLife01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemLife01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLife01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleLife01",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Med": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemMed01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemMed01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemMed02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemMed02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemMed03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemMed03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemMed04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemMed04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleMed01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleMed01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleMed02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleMed02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleMed03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleMed03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleMed04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleMed04",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Metro": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemMetro01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemMetro01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemMetro02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemMetro02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemMetro03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemMetro03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleMetro01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleMetro01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleMetro02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleMetro02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleMetro03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleMetro03",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_PalmTree_CasualFestival": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Cas01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx2Cas01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Cas02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx2Cas02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Cas03",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx2Cas03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Cas04",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx2Cas04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Cas05",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx2Cas05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Cas06",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx2Cas06",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Cas07",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx2Cas07",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Cas08",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SK_WalkerFemEx2Cas08",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Food01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/Food/SK_WalkerFemEx2Food01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Food02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/Food/SK_WalkerFemEx2Food02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Stage01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/Stage/SK_WalkerFemEx2Stage01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemStage02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/Stage/SK_WalkerFemStage02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Cas01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/SK_WalkerMaleEx2Cas01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Cas02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/SK_WalkerMaleEx2Cas02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Cas03",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/SK_WalkerMaleEx2Cas03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Cas04",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/SK_WalkerMaleEx2Cas04",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Cas05",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/SK_WalkerMaleEx2Cas05",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Cas06",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/SK_WalkerMaleEx2Cas06",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Cas07",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/SK_WalkerMaleEx2Cas07",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Cas08",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/SK_WalkerMaleEx2Cas08",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Food01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/Food/SK_WalkerMaleEx2Food01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Food02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/Food/SK_WalkerMaleEx2Food02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Stage01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/Stage/SK_WalkerMaleEx2Stage01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Stage02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/Stage/SK_WalkerMaleEx2Stage02",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_PalmTree_Caustic": [
+   {
+    "variant": "DA_ModelVariantAsset_HazmatWalkerEx201",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombiePerk/HazmatWalker/SK_HazmatWalkerEx201",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_HazmatWalkerEx202",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombiePerk/HazmatWalker/SK_HazmatWalkerEx202",
+    "female": true,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_PalmTree_Club": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Spr01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SpringBreak/SK_WalkerFemEx2Spr01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Spr02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SpringBreak/SK_WalkerFemEx2Spr02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Spr03",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SpringBreak/SK_WalkerFemEx2Spr03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Spr04",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SpringBreak/SK_WalkerFemEx2Spr04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Spr05",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SpringBreak/SK_WalkerFemEx2Spr05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Spr01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/SpringBreak/SK_WalkerMaleEx2Spr01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Spr02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/SpringBreak/SK_WalkerMaleEx2Spr02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Spr03",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/SpringBreak/SK_WalkerMaleEx2Spr03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Spr04",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/SpringBreak/SK_WalkerMaleEx2Spr04",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Spr05",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/SpringBreak/SK_WalkerMaleEx2Spr05",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Spr06",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/SpringBreak/SK_WalkerMaleEx2Spr06",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_PalmTree_Swimwear": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Spr01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SpringBreak/SK_WalkerFemEx2Spr01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Spr02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SpringBreak/SK_WalkerFemEx2Spr02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Spr03",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SpringBreak/SK_WalkerFemEx2Spr03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Spr04",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SpringBreak/SK_WalkerFemEx2Spr04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2Spr05",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/SpringBreak/SK_WalkerFemEx2Spr05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Spr01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/SpringBreak/SK_WalkerMaleEx2Spr01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2Spr02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/SpringBreak/SK_WalkerMaleEx2Spr02",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_PalmTree_VIP": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2VIP01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/VIP/SK_WalkerFemEx2VIP01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2VIP02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/VIP/SK_WalkerFemEx2VIP02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2VIP03",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/VIP/SK_WalkerFemEx2VIP03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2VIP04",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/VIP/SK_WalkerFemEx2VIP04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemEx2VIP05",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Walker/VIP/SK_WalkerFemEx2VIP05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2VIP01",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/VIP/SK_WalkerMaleEx2VIP01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2VIP02",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/VIP/SK_WalkerMaleEx2VIP02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2VIP03",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/VIP/SK_WalkerMaleEx2VIP03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleEx2VIP04",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Walker/VIP/SK_WalkerMaleEx2VIP04",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_PizzaDonny": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLrg_Donny",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleLrg_Donny",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_PizzaLeo": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLrg_Leo",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleLrg_Leo",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_PizzaMikey": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLrg_Mikey",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleLrg_Mikey",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_PizzaRaph": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLrg_Raph",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Walker/SK_WalkerMaleLrg_Raph",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_Radio": [
+   {
+    "variant": "DA_ModelVariantAsset_Radio01",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/Radio/SK_Radio01",
+    "female": true,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_RiotGear_Bagman": [
+   {
+    "variant": "DA_ModelVariantAsset_RiotGearBagman01",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombiePerk/RiotGear/SK_RiotGearBagman01",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_RiotGear_Heavy": [
+   {
+    "variant": "DA_ModelVariantAsset_RiotGearWalker01",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/RiotGear/SK_RiotGearWalker01",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_RiotGear_Light": [
+   {
+    "variant": "DA_ModelVariantAsset_RiotGearHelmetTorso",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/RiotGear/SK_RiotGearHelmetTorso",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_RiotGear_Light_Timon": [
+   {
+    "variant": "DA_ModelVariantAsset_RiotGearWalker01_Timon",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombiePerk/RiotGear/SK_RiotGearWalker01_Timon",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_RiotGear_Medium": [
+   {
+    "variant": "DA_ModelVariantAsset_RiotGearNoHelmet",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/RiotGear/SK_RiotGearNoHelmet",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_RiotGear_Medium_Kenneth": [
+   {
+    "variant": "DA_ModelVariantAsset_RiotGearNoHelmet_Kenneth",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombiePerk/RiotGear/SK_RiotGearNoHelmet_Kenneth",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_RiotGear_Medium_Mickael": [
+   {
+    "variant": "DA_ModelVariantAsset_RiotGearWalker_Mickael",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombiePerk/RiotGear/SK_RiotGearWalker_Mickael",
+    "female": false,
+    "male": true
+   }
+  ],
+  "DA_ModelVariation_Walker_RiotGear_VeryLight": [
+   {
+    "variant": "DA_ModelVariantAsset_RiotGearTorsoOnly",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/RiotGear/SK_RiotGearTorsoOnly",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Security": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSec01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSec01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSec02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSec02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSec03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSec03",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Sewer": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas06",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas06",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas07",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas07",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas08",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas08",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas09",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas09",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas10",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas10",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas11",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas11",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas12",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas12",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas13",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas13",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas14",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas14",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemCas15",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemCas15",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemaleLrg03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/WalkerLrg/SK_WalkerFemaleLrg03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemaleLrg04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/WalkerLrg/SK_WalkerFemaleLrg04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemaleLrg05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/WalkerLrg/SK_WalkerFemaleLrg05",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemaleLrg06",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/WalkerLrg/SK_WalkerFemaleLrg06",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemaleLrg07",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/WalkerLrg/SK_WalkerFemaleLrg07",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas04",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas05",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas06",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas06",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas07",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas07",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas08",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas08",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas09",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas09",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas10",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas10",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas11",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas11",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas12",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas12",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas13",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas13",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas14",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas14",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas15",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas15",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleCas16",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleCas16",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLrg01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/WalkerLrg/SK_WalkerMaleLrg01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLrg02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/WalkerLrg/SK_WalkerMaleLrg02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLrg04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/WalkerLrg/SK_WalkerMaleLrg04",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleLrg05",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/WalkerLrg/SK_WalkerMaleLrg05",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSewer01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSewer01",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Shocking": [
+   {
+    "variant": "DA_ModelVariantAsset_ShockingWalker01",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/ShockingWalker/SK_ShockingWalker01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShockingWalker02",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/ShockingWalker/SK_ShockingWalker02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ShockingWalker03",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/ShockingWalker/SK_ShockingWalker03",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Shocking_PalmTree": [
+   {
+    "variant": "DA_ModelVariantAsset_ShockingWalkerEx201",
+    "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombiePerk/ShockingWalker/SK_ShockingWalkerEx201",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Slurry": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleMeatSlurry01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleMeatSlurry01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleMeatSlurry02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleMeatSlurry02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleMeatSlurry03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleMeatSlurry03",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Smart": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemSmart01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemSmart01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemSmart02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemSmart02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemSmart03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemSmart03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemSmart04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemSmart04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSmart01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSmart01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSmart02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSmart02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSmart03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSmart03",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSmart04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSmart04",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Smart_Bagman": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemSmartBagman01",
+    "mesh": "/Game/DI2/Horde/Art/Characters/ZombieFemale/Walker/SK_WalkerFemSmartBagman01",
+    "female": true,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Spiky": [
+   {
+    "variant": "DA_ModelVariantAsset_SpikyWalker01",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/SpikyWalker/SK_SpikyWalker01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_SpikyWalker02",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/SpikyWalker/SK_SpikyWalker02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_SpikyWalker03",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/SpikyWalker/SK_SpikyWalker03",
+    "female": true,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Sport": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemSport01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemSport01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemSport02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemSport02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemSport03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemSport03",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemSport04",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemSport04",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSport01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSport01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSport02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSport02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleSport03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleSport03",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Vicious": [
+   {
+    "variant": "DA_ModelVariantAsset_ViciousWalker01",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/ViciousWalker/SK_ViciousWalker01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_ViciousWalker03",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/ViciousWalker/SK_ViciousWalker03",
+    "female": true,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_WaterTank": [
+   {
+    "variant": "DA_ModelVariantAsset_WaterTank01",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/WaterTank/SK_WaterTank01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WaterTank02",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/WaterTank/SK_WaterTank02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WaterTank03",
+    "mesh": "/Game/DI2/Art/Characters/ZombiePerk/WaterTank/SK_WaterTank03",
+    "female": true,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_Wedding": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemWed01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemWed01",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerFemWed02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Walker/SK_WalkerFemWed02",
+    "female": true,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleWed01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleWed01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleWed02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleWed02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleWed03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleWed03",
+    "female": false,
+    "male": false
+   }
+  ],
+  "DA_ModelVariation_Walker_WW2": [
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleWW2FilmSet01",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleWW2FilmSet01",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleWW2FilmSet02",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleWW2FilmSet02",
+    "female": false,
+    "male": false
+   },
+   {
+    "variant": "DA_ModelVariantAsset_WalkerMaleWW2FilmSet03",
+    "mesh": "/Game/DI2/Art/Characters/ZombieMale/Walker/SK_WalkerMaleWW2FilmSet03",
+    "female": false,
+    "male": false
+   }
+  ]
+ },
+ "female_runners": [
+  {
+   "variant": "DA_ModelVariantAsset_RunnerCasual_Ro",
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieFemale/Runner/SK_RunnerCasual_Ro",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemaleArmy01",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemaleArmy01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemaleArmy02",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemaleArmy02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemCas01",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemCas02",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemCas03",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas03",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemCas04",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas04",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemCas05",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas05",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemCas06",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas06",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemCas07",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas07",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemCas08",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas08",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemCas09",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas09",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemCas10",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas10",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemCas11",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas11",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemCDC01",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCDC01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemCDC02",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCDC02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemCDC03",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCDC03",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Cul01",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Cul02",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Cul03",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul03",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Cul04",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul04",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Cul05",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul05",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Cul06",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul06",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Cul07",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul07",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Cul08",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul08",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Cul10",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul10",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Cul11",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul11",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Cul12",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul12",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Deep01",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Deeper/SK_RunnerFemEx1Deep01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Deep02",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Deeper/SK_RunnerFemEx1Deep02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Deep05",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Deeper/SK_RunnerFemEx1Deep05",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Deep09",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Deeper/SK_RunnerFemEx1Deep09",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Finale01",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Finale/SK_RunnerFemEx1Finale01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Finale02",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Finale/SK_RunnerFemEx1Finale02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Finale03",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Finale/SK_RunnerFemEx1Finale03",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Finale04",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Finale/SK_RunnerFemEx1Finale04",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Finale05",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Finale/SK_RunnerFemEx1Finale05",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Finale06",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Finale/SK_RunnerFemEx1Finale06",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Finale07",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Finale/SK_RunnerFemEx1Finale07",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Latex01",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Latex02",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Latex03",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex03",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Latex04",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex04",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Latex05",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex05",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Latex06",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex06",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Latex07",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex07",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Latex08",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex08",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Latex09",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex09",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Latex10",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex10",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Latex11",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex11",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Latex12",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex12",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Latex13",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex13",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1Named01",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Named01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1TVFemBerserker",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/TVSpawners/SK_RunnerFemEx1TVFemBerserker",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1TVFemRogue",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/TVSpawners/SK_RunnerFemEx1TVFemRogue",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx1TVFemWarrior",
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/TVSpawners/SK_RunnerFemEx1TVFemWarrior",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Cas01",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx2Cas01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Cas02",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx2Cas02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Cas03",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx2Cas03",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Cas04",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx2Cas04",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Cas05",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx2Cas05",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Cas06",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx2Cas06",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Cas07",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx2Cas07",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Cas08",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx2Cas08",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Food01",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/Food/SK_RunnerFemEx2Food01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Spr01",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SpringBreak/SK_RunnerFemEx2Spr01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Spr02",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SpringBreak/SK_RunnerFemEx2Spr02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Spr03",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SpringBreak/SK_RunnerFemEx2Spr03",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Spr04",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SpringBreak/SK_RunnerFemEx2Spr04",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Spr05",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SpringBreak/SK_RunnerFemEx2Spr05",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Spr06",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SpringBreak/SK_RunnerFemEx2Spr06",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Spr07",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SpringBreak/SK_RunnerFemEx2Spr07",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Stage01",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/Stage/SK_RunnerFemEx2Stage01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Stage02",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/Stage/SK_RunnerFemEx2Stage02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Stage03",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/Stage/SK_RunnerFemEx2Stage03",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2VIP01",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/VIP/SK_RunnerFemEx2VIP01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2VIP02",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/VIP/SK_RunnerFemEx2VIP02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2VIP03",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/VIP/SK_RunnerFemEx2VIP03",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2VIP04",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/VIP/SK_RunnerFemEx2VIP04",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2VIP05",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/VIP/SK_RunnerFemEx2VIP05",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Yoga01",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/Yoga/SK_RunnerFemEx2Yoga01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemEx2Yoga02",
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/Yoga/SK_RunnerFemEx2Yoga02",
+   "female": false,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemFood01",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemFood01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemGlam01",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemGlam01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemGlam02",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemGlam02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemGlam03",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemGlam03",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemLife01",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemLife01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemMeatSlurry01",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemMeatSlurry01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemMeatSlurry02",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemMeatSlurry02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemMeatSlurry03",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemMeatSlurry03",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemMed01",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemMed01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemMed02",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemMed02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSewerCas01",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSewerCas01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSewerCas02",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSewerCas02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSewerCas03",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSewerCas03",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSewerCas04",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSewerCas04",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSewerCas05",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSewerCas05",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSport01",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSport02",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSport03",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport03",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSport04",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport04",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSport05",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport05",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSport06",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport06",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSport_Isa",
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport_Isa",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSport_Isabelle",
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport_Isabelle",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSport_Viv",
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport_Viv",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSwim01",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSwim01",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSwim02",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSwim02",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSwim03",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSwim03",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSwim04",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSwim04",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSwim05",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSwim05",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSwim06",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSwim06",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemSwim07",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSwim07",
+   "female": true,
+   "male": false
+  },
+  {
+   "variant": "DA_ModelVariantAsset_RunnerFemWed01",
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemWed01",
+   "female": true,
+   "male": false
+  }
+ ]
+}

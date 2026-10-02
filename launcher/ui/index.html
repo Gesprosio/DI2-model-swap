@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Mod Launcher</title>
+  <link rel="stylesheet" href="theme.css">
+  <link rel="stylesheet" href="app.css">
+  <link rel="stylesheet" href="di2.css">
+</head>
+<body>
+  <header class="top">
+    <div class="title-block">
+      <div class="brand">
+        <span class="kicker">Dead Island 2 · v0.9.0</span>
+        <h1 id="title">Model Swap</h1>
+      </div>
+      <span id="state-pill" class="pill">…</span>
+    </div>
+    <p class="hint">Drag models onto enemies · Ctrl+click to pick several · Several models on one enemy = mixed among those zombies</p>
+    <button id="uninstall" class="ghost small" hidden>Uninstall</button>
+  </header>
+
+  <main class="columns">
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Enemies</h2>
+        <div class="segmented" id="views">
+          <button data-view="type" class="on">By type</button>
+          <button data-view="act">By content</button>
+        </div>
+      </div>
+      <div class="scroll" id="enemies"></div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Available models</h2>
+      </div>
+      <div class="tabs" id="tabs"></div>
+      <input id="search" type="search" placeholder="Search model">
+      <div class="scroll" id="models"></div>
+    </section>
+  </main>
+
+  <footer class="bar">
+    <div class="progress" id="progress" hidden><div id="progress-fill"></div><span id="progress-pct">0%</span></div>
+    <div class="actions">
+      <button id="apply-launch" class="primary">Apply and launch</button>
+      <button id="apply">Apply only</button>
+      <button id="random">Random</button>
+      <button id="clear">Clear all</button>
+      <button id="restore">Restore original game</button>
+      <span id="options" class="options"></span>
+      <span id="status" class="status"></span>
+    </div>
+  </footer>
+
+  <div class="modal-back" id="modal" hidden>
+    <div class="modal">
+      <h3 id="modal-title"></h3>
+      <p id="modal-text"></p>
+      <div class="modal-actions">
+        <button id="modal-cancel">Cancel</button>
+        <button id="modal-ok" class="primary">OK</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="drag-ghost" class="drag-ghost" hidden></div>
+  <script src="app.js"></script>
+</body>
+</html>

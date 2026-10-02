@@ -1,0 +1,1290 @@
+{
+ "variations": {
+  "DA_ModelVariation_BaseRunner": [
+   "DA_ModelVariantAsset_RunnerFemCas01",
+   "DA_ModelVariantAsset_RunnerFemCas06",
+   "DA_ModelVariantAsset_RunnerFemCas11",
+   "DA_ModelVariantAsset_RunnerMaleCas02",
+   "DA_ModelVariantAsset_RunnerMaleCas09",
+   "DA_ModelVariantAsset_RunnerMaleCas10"
+  ],
+  "DA_ModelVariation_Runner_Army": [
+   "DA_ModelVariantAsset_RunnerFemaleArmy01",
+   "DA_ModelVariantAsset_RunnerFemaleArmy02",
+   "DA_ModelVariantAsset_RunnerMaleArmy01",
+   "DA_ModelVariantAsset_RunnerMaleArmy02"
+  ],
+  "DA_ModelVariation_Runner_Beach": [
+   "DA_ModelVariantAsset_RunnerFemSwim01",
+   "DA_ModelVariantAsset_RunnerFemSwim02",
+   "DA_ModelVariantAsset_RunnerFemSwim03",
+   "DA_ModelVariantAsset_RunnerFemSwim04",
+   "DA_ModelVariantAsset_RunnerFemSwim05",
+   "DA_ModelVariantAsset_RunnerFemSwim06",
+   "DA_ModelVariantAsset_RunnerFemSwim07",
+   "DA_ModelVariantAsset_RunnerMaleSwim01",
+   "DA_ModelVariantAsset_RunnerMaleSwim02",
+   "DA_ModelVariantAsset_RunnerMaleSwim03",
+   "DA_ModelVariantAsset_RunnerMaleSwim04"
+  ],
+  "DA_ModelVariation_Runner_Burning": [
+   "DA_ModelVariantAsset_BurningRunner01",
+   "DA_ModelVariantAsset_BurningRunner02"
+  ],
+  "DA_ModelVariation_Runner_Casual": [
+   "DA_ModelVariantAsset_RunnerFemCas01",
+   "DA_ModelVariantAsset_RunnerFemCas02",
+   "DA_ModelVariantAsset_RunnerFemCas03",
+   "DA_ModelVariantAsset_RunnerFemCas04",
+   "DA_ModelVariantAsset_RunnerFemCas05",
+   "DA_ModelVariantAsset_RunnerFemCas06",
+   "DA_ModelVariantAsset_RunnerFemCas07",
+   "DA_ModelVariantAsset_RunnerFemCas08",
+   "DA_ModelVariantAsset_RunnerFemCas09",
+   "DA_ModelVariantAsset_RunnerFemCas10",
+   "DA_ModelVariantAsset_RunnerFemCas11",
+   "DA_ModelVariantAsset_RunnerMaleCas01",
+   "DA_ModelVariantAsset_RunnerMaleCas02",
+   "DA_ModelVariantAsset_RunnerMaleCas03",
+   "DA_ModelVariantAsset_RunnerMaleCas04",
+   "DA_ModelVariantAsset_RunnerMaleCas05",
+   "DA_ModelVariantAsset_RunnerMaleCas06",
+   "DA_ModelVariantAsset_RunnerMaleCas07",
+   "DA_ModelVariantAsset_RunnerMaleCas08",
+   "DA_ModelVariantAsset_RunnerMaleCas09",
+   "DA_ModelVariantAsset_RunnerMaleCas10"
+  ],
+  "DA_ModelVariation_Runner_Casual_Aero": [
+   "DA_ModelVariantAsset_RunnerMaleCas_Aero"
+  ],
+  "DA_ModelVariation_Runner_Casual_David": [
+   "DA_ModelVariantAsset_RunnerMaleCas02_David"
+  ],
+  "DA_ModelVariation_Runner_Casual_Julien": [
+   "DA_ModelVariantAsset_RunnerMaleCas_Julien"
+  ],
+  "DA_ModelVariation_Runner_Casual_Mathew": [
+   "DA_ModelVariantAsset_RunnerMaleCas_Mathew"
+  ],
+  "DA_ModelVariation_Runner_Casual_Niklas": [
+   "DA_ModelVariantAsset_RunnerMaleCas_Niklas"
+  ],
+  "DA_ModelVariation_Runner_Casual_Ro": [
+   "DA_ModelVariantAsset_RunnerCasual_Ro"
+  ],
+  "DA_ModelVariation_Runner_Casual_SebB": [
+   "DA_ModelVariantAsset_RunnerMaleCas_SebB"
+  ],
+  "DA_ModelVariation_Runner_Casual_Soenke": [
+   "DA_ModelVariantAsset_RunnerMaleCas_Soenke"
+  ],
+  "DA_ModelVariation_Runner_Casual_Stephan": [
+   "DA_ModelVariantAsset_RunnerMaleCas_Stephan"
+  ],
+  "DA_ModelVariation_Runner_Casual_Tobi": [
+   "DA_ModelVariantAsset_RunnerMaleCas_Tobi"
+  ],
+  "DA_ModelVariation_Runner_Caustic": [
+   "DA_ModelVariantAsset_RunnerMaleCaustic01",
+   "DA_ModelVariantAsset_RunnerMaleCaustic02"
+  ],
+  "DA_ModelVariation_Runner_CDC": [
+   "DA_ModelVariantAsset_RunnerFemCDC01",
+   "DA_ModelVariantAsset_RunnerFemCDC02",
+   "DA_ModelVariantAsset_RunnerFemCDC03",
+   "DA_ModelVariantAsset_RunnerMaleCDC01",
+   "DA_ModelVariantAsset_RunnerMaleCDC02",
+   "DA_ModelVariantAsset_RunnerMaleCDC03"
+  ],
+  "DA_ModelVariation_Runner_Fireman": [
+   "DA_ModelVariantAsset_BurningFiremanRunner01",
+   "DA_ModelVariantAsset_BurningFiremanRunner02",
+   "DA_ModelVariantAsset_BurningFiremanRunner03"
+  ],
+  "DA_ModelVariation_Runner_Food": [
+   "DA_ModelVariantAsset_RunnerFemFood01"
+  ],
+  "DA_ModelVariation_Runner_Glam": [
+   "DA_ModelVariantAsset_RunnerFemGlam01",
+   "DA_ModelVariantAsset_RunnerFemGlam02",
+   "DA_ModelVariantAsset_RunnerFemGlam03"
+  ],
+  "DA_ModelVariation_Runner_Haus_CorpseAcid": [
+   "DA_ModelVariantAsset_CorpseAcidEx1"
+  ],
+  "DA_ModelVariation_Runner_Haus_CulDeSac": [
+   "DA_ModelVariantAsset_RunnerFemEx1Cul03",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul04",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul05",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul06",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul07",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul08",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul10",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul11",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul12",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul03",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul05",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul06",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul07",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul08",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul09"
+  ],
+  "DA_ModelVariation_Runner_Haus_Deeper": [
+   "DA_ModelVariantAsset_RunnerFemEx1Deep01",
+   "DA_ModelVariantAsset_RunnerFemEx1Deep02",
+   "DA_ModelVariantAsset_RunnerFemEx1Deep05",
+   "DA_ModelVariantAsset_RunnerFemEx1Deep09",
+   "DA_ModelVariantAsset_RunnerMaleEx1Deep01",
+   "DA_ModelVariantAsset_RunnerMaleEx1Deep02",
+   "DA_ModelVariantAsset_RunnerMaleEx1Deep04",
+   "DA_ModelVariantAsset_RunnerMaleEx1Deep09"
+  ],
+  "DA_ModelVariation_Runner_Haus_Diner": [
+   "DA_ModelVariantAsset_RunnerFemEx1Cul01",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul02",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul03",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul04",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul05",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul06",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul07",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul08",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul10",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul11",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul12",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul01",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul02",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul03",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul05",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul06",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul07",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul08",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul09"
+  ],
+  "DA_ModelVariation_Runner_Haus_Finale": [
+   "DA_ModelVariantAsset_RunnerFemEx1Finale01",
+   "DA_ModelVariantAsset_RunnerFemEx1Finale02",
+   "DA_ModelVariantAsset_RunnerFemEx1Finale03",
+   "DA_ModelVariantAsset_RunnerFemEx1Finale04",
+   "DA_ModelVariantAsset_RunnerFemEx1Finale05",
+   "DA_ModelVariantAsset_RunnerFemEx1Finale06",
+   "DA_ModelVariantAsset_RunnerFemEx1Finale07",
+   "DA_ModelVariantAsset_RunnerMaleEx1Finale01",
+   "DA_ModelVariantAsset_RunnerMaleEx1Finale02",
+   "DA_ModelVariantAsset_RunnerMaleEx1Finale03",
+   "DA_ModelVariantAsset_RunnerMaleEx1Finale04",
+   "DA_ModelVariantAsset_RunnerMaleEx1Finale05",
+   "DA_ModelVariantAsset_RunnerMaleEx1Finale06"
+  ],
+  "DA_ModelVariation_Runner_Haus_Forest": [
+   "DA_ModelVariantAsset_RunnerFemEx1Cul01",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul02",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul03",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul04",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul05",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul06",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul07",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul08",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul10",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul11",
+   "DA_ModelVariantAsset_RunnerFemEx1Cul12",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul01",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul02",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul03",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul05",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul06",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul07",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul08",
+   "DA_ModelVariantAsset_RunnerMaleEx1Cul09"
+  ],
+  "DA_ModelVariation_Runner_Haus_MainHall": [
+   "DA_ModelVariantAsset_RunnerFemEx1Latex03",
+   "DA_ModelVariantAsset_RunnerFemEx1Latex04",
+   "DA_ModelVariantAsset_RunnerFemEx1Latex05",
+   "DA_ModelVariantAsset_RunnerFemEx1Latex06",
+   "DA_ModelVariantAsset_RunnerFemEx1Latex07",
+   "DA_ModelVariantAsset_RunnerFemEx1Latex08",
+   "DA_ModelVariantAsset_RunnerFemEx1Latex09",
+   "DA_ModelVariantAsset_RunnerFemEx1Latex10",
+   "DA_ModelVariantAsset_RunnerFemEx1Latex11",
+   "DA_ModelVariantAsset_RunnerFemEx1Latex12",
+   "DA_ModelVariantAsset_RunnerFemEx1Latex13",
+   "DA_ModelVariantAsset_RunnerMaleEx1Latex03",
+   "DA_ModelVariantAsset_RunnerMaleEx1Latex04",
+   "DA_ModelVariantAsset_RunnerMaleEx1Latex05",
+   "DA_ModelVariantAsset_RunnerMaleEx1Latex06",
+   "DA_ModelVariantAsset_RunnerMaleEx1Latex07",
+   "DA_ModelVariantAsset_RunnerMaleEx1Latex08",
+   "DA_ModelVariantAsset_RunnerMaleEx1Latex09"
+  ],
+  "DA_ModelVariation_Runner_LAPD": [
+   "DA_ModelVariantAsset_RunnerMaleLAPD01",
+   "DA_ModelVariantAsset_RunnerMaleLAPD02",
+   "DA_ModelVariantAsset_RunnerMaleLAPD03"
+  ],
+  "DA_ModelVariation_Runner_Lifeguard": [
+   "DA_ModelVariantAsset_RunnerFemLife01",
+   "DA_ModelVariantAsset_RunnerMaleLife01"
+  ],
+  "DA_ModelVariation_Runner_LootSatchel": [
+   "DA_ModelVariantAsset_LootSatchel01",
+   "DA_ModelVariantAsset_LootSatchel02",
+   "DA_ModelVariantAsset_LootSatchel03"
+  ],
+  "DA_ModelVariation_Runner_Med": [
+   "DA_ModelVariantAsset_RunnerFemMed01",
+   "DA_ModelVariantAsset_RunnerFemMed02",
+   "DA_ModelVariantAsset_RunnerMaleMed01",
+   "DA_ModelVariantAsset_RunnerMaleMed02"
+  ],
+  "DA_ModelVariation_Runner_PalmTree_CasualFestival": [
+   "DA_ModelVariantAsset_RunnerFemEx2Cas01",
+   "DA_ModelVariantAsset_RunnerFemEx2Cas02",
+   "DA_ModelVariantAsset_RunnerFemEx2Cas03",
+   "DA_ModelVariantAsset_RunnerFemEx2Cas04",
+   "DA_ModelVariantAsset_RunnerFemEx2Cas05",
+   "DA_ModelVariantAsset_RunnerFemEx2Cas06",
+   "DA_ModelVariantAsset_RunnerFemEx2Cas07",
+   "DA_ModelVariantAsset_RunnerFemEx2Cas08",
+   "DA_ModelVariantAsset_RunnerFemEx2Food01",
+   "DA_ModelVariantAsset_RunnerFemEx2Stage01",
+   "DA_ModelVariantAsset_RunnerFemEx2Stage02",
+   "DA_ModelVariantAsset_RunnerFemEx2Stage03",
+   "DA_ModelVariantAsset_RunnerMaleEx2Cas01",
+   "DA_ModelVariantAsset_RunnerMaleEx2Cas02",
+   "DA_ModelVariantAsset_RunnerMaleEx2Cas03",
+   "DA_ModelVariantAsset_RunnerMaleEx2Cas04",
+   "DA_ModelVariantAsset_RunnerMaleEx2Cas05",
+   "DA_ModelVariantAsset_RunnerMaleEx2Cas06",
+   "DA_ModelVariantAsset_RunnerMaleEx2Cas07",
+   "DA_ModelVariantAsset_RunnerMaleEx2Food01",
+   "DA_ModelVariantAsset_RunnerMaleEx2Food02",
+   "DA_ModelVariantAsset_RunnerMaleEx2Stage01",
+   "DA_ModelVariantAsset_RunnerMaleEx2Stage02",
+   "DA_ModelVariantAsset_RunnerMaleEx2Stage03"
+  ],
+  "DA_ModelVariation_Runner_PalmTree_Caustic": [
+   "DA_ModelVariantAsset_HazmatRunnerEx201",
+   "DA_ModelVariantAsset_HazmatRunnerEx202"
+  ],
+  "DA_ModelVariation_Runner_PalmTree_Club": [
+   "DA_ModelVariantAsset_RunnerFemEx2Spr01",
+   "DA_ModelVariantAsset_RunnerFemEx2Spr02",
+   "DA_ModelVariantAsset_RunnerFemEx2Spr03",
+   "DA_ModelVariantAsset_RunnerFemEx2Spr04",
+   "DA_ModelVariantAsset_RunnerFemEx2Spr05",
+   "DA_ModelVariantAsset_RunnerFemEx2Spr06",
+   "DA_ModelVariantAsset_RunnerFemEx2Spr07",
+   "DA_ModelVariantAsset_RunnerMaleEx2Spr01",
+   "DA_ModelVariantAsset_RunnerMaleEx2Spr02",
+   "DA_ModelVariantAsset_RunnerMaleEx2Spr03",
+   "DA_ModelVariantAsset_RunnerMaleEx2Spr04",
+   "DA_ModelVariantAsset_RunnerMaleEx2Spr05",
+   "DA_ModelVariantAsset_RunnerMaleEx2Spr06",
+   "DA_ModelVariantAsset_RunnerMaleEx2Spr07"
+  ],
+  "DA_ModelVariation_Runner_PalmTree_Swimwear": [
+   "DA_ModelVariantAsset_RunnerFemEx2Spr01",
+   "DA_ModelVariantAsset_RunnerFemEx2Spr02",
+   "DA_ModelVariantAsset_RunnerFemEx2Spr03",
+   "DA_ModelVariantAsset_RunnerFemEx2Spr04",
+   "DA_ModelVariantAsset_RunnerFemEx2Spr05",
+   "DA_ModelVariantAsset_RunnerFemEx2Spr06",
+   "DA_ModelVariantAsset_RunnerFemEx2Spr07",
+   "DA_ModelVariantAsset_RunnerMaleEx2Spr01",
+   "DA_ModelVariantAsset_RunnerMaleEx2Spr02",
+   "DA_ModelVariantAsset_RunnerMaleEx2Spr03",
+   "DA_ModelVariantAsset_RunnerMaleEx2Spr04"
+  ],
+  "DA_ModelVariation_Runner_PalmTree_VIP": [
+   "DA_ModelVariantAsset_RunnerFemEx2VIP01",
+   "DA_ModelVariantAsset_RunnerFemEx2VIP02",
+   "DA_ModelVariantAsset_RunnerFemEx2VIP03",
+   "DA_ModelVariantAsset_RunnerFemEx2VIP04",
+   "DA_ModelVariantAsset_RunnerFemEx2VIP05",
+   "DA_ModelVariantAsset_RunnerMaleEx2VIP01",
+   "DA_ModelVariantAsset_RunnerMaleEx2VIP02",
+   "DA_ModelVariantAsset_RunnerMaleEx2VIP03",
+   "DA_ModelVariantAsset_RunnerMaleEx2VIP04"
+  ],
+  "DA_ModelVariation_Runner_Sewer": [
+   "DA_ModelVariantAsset_RunnerFemSewerCas01",
+   "DA_ModelVariantAsset_RunnerFemSewerCas02",
+   "DA_ModelVariantAsset_RunnerFemSewerCas03",
+   "DA_ModelVariantAsset_RunnerFemSewerCas04",
+   "DA_ModelVariantAsset_RunnerFemSewerCas05",
+   "DA_ModelVariantAsset_RunnerMaleSewer01",
+   "DA_ModelVariantAsset_RunnerMaleSewer02",
+   "DA_ModelVariantAsset_RunnerMaleSewerCas01",
+   "DA_ModelVariantAsset_RunnerMaleSewerCas02",
+   "DA_ModelVariantAsset_RunnerMaleSewerCas03",
+   "DA_ModelVariantAsset_RunnerMaleSewerCas04",
+   "DA_ModelVariantAsset_RunnerMaleSewerCas05"
+  ],
+  "DA_ModelVariation_Runner_Shocking": [
+   "DA_ModelVariantAsset_ShockingRunner01",
+   "DA_ModelVariantAsset_ShockingRunner02",
+   "DA_ModelVariantAsset_ShockingRunner03"
+  ],
+  "DA_ModelVariation_Runner_Shocking_Bagman": [
+   "DA_ModelVariantAsset_ShockingRunnerBagman01"
+  ],
+  "DA_ModelVariation_Runner_Shocking_PalmTree": [
+   "DA_ModelVariantAsset_ShockingRunnerEx201"
+  ],
+  "DA_ModelVariation_Runner_Slurry": [
+   "DA_ModelVariantAsset_RunnerFemMeatSlurry01",
+   "DA_ModelVariantAsset_RunnerFemMeatSlurry02",
+   "DA_ModelVariantAsset_RunnerFemMeatSlurry03"
+  ],
+  "DA_ModelVariation_Runner_Spiky": [
+   "DA_ModelVariantAsset_SpikyRunner01",
+   "DA_ModelVariantAsset_SpikyRunner02",
+   "DA_ModelVariantAsset_SpikyRunner03"
+  ],
+  "DA_ModelVariation_Runner_Sport": [
+   "DA_ModelVariantAsset_RunnerFemSport01",
+   "DA_ModelVariantAsset_RunnerFemSport02",
+   "DA_ModelVariantAsset_RunnerFemSport03",
+   "DA_ModelVariantAsset_RunnerFemSport04",
+   "DA_ModelVariantAsset_RunnerFemSport05",
+   "DA_ModelVariantAsset_RunnerFemSport06",
+   "DA_ModelVariantAsset_RunnerMaleSport01",
+   "DA_ModelVariantAsset_RunnerMaleSport02"
+  ],
+  "DA_ModelVariation_Runner_Sport_Isa": [
+   "DA_ModelVariantAsset_RunnerFemSport_Isa"
+  ],
+  "DA_ModelVariation_Runner_Sport_Isabelle": [
+   "DA_ModelVariantAsset_RunnerFemSport_Isabelle"
+  ],
+  "DA_ModelVariation_Runner_Sport_Viv": [
+   "DA_ModelVariantAsset_RunnerFemSport_Viv"
+  ],
+  "DA_ModelVariation_Runner_Vicious": [
+   "DA_ModelVariantAsset_ViciousRunner01",
+   "DA_ModelVariantAsset_ViciousRunner02",
+   "DA_ModelVariantAsset_ViciousRunner03"
+  ],
+  "DA_ModelVariation_Runner_Wedding": [
+   "DA_ModelVariantAsset_RunnerFemWed01"
+  ],
+  "DA_ModelVariation_Runner_WW2": [
+   "DA_ModelVariantAsset_RunnerMaleWW2FilmSet01"
+  ]
+ },
+ "variants": {
+  "DA_ModelVariantAsset_BurningFiremanRunner01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/FiremanRunner/SK_BurningFiremanRunner01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_BurningFiremanRunner02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/FiremanRunner/SK_BurningFiremanRunner02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_BurningFiremanRunner03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/FiremanRunner/SK_BurningFiremanRunner03",
+   "female": false
+  },
+  "DA_ModelVariantAsset_BurningRunner01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/BurningRunner/SK_BurningRunner01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_BurningRunner02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/BurningRunner/SK_BurningRunner02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_CorpseAcidEx1": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/Corpses/SK_CorpseAcidEx1",
+   "female": false
+  },
+  "DA_ModelVariantAsset_HazmatRunnerEx201": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombiePerk/HazmatRunner/SK_HazmatRunnerEx201",
+   "female": false
+  },
+  "DA_ModelVariantAsset_HazmatRunnerEx202": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombiePerk/HazmatRunner/SK_HazmatRunnerEx202",
+   "female": true
+  },
+  "DA_ModelVariantAsset_LootSatchel01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/LootSatchel/SK_LootSatchel01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_LootSatchel02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/LootSatchel/SK_LootSatchel02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_LootSatchel03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/LootSatchel/SK_LootSatchel03",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerCasual_Ro": {
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieFemale/Runner/SK_RunnerCasual_Ro",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemCDC01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCDC01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemCDC02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCDC02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemCDC03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCDC03",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemCas01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemCas02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemCas03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas03",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemCas04": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas04",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemCas05": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas05",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemCas06": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas06",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemCas07": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas07",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemCas08": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas08",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemCas09": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas09",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemCas10": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas10",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemCas11": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemCas11",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Cul01": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Cul02": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Cul03": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul03",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Cul04": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul04",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Cul05": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul05",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Cul06": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul06",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Cul07": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul07",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Cul08": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul08",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Cul10": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul10",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Cul11": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul11",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Cul12": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/CulDeSac/SK_RunnerFemEx1Cul12",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Deep01": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Deeper/SK_RunnerFemEx1Deep01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Deep02": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Deeper/SK_RunnerFemEx1Deep02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Deep05": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Deeper/SK_RunnerFemEx1Deep05",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Deep09": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Deeper/SK_RunnerFemEx1Deep09",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Finale01": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Finale/SK_RunnerFemEx1Finale01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Finale02": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Finale/SK_RunnerFemEx1Finale02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Finale03": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Finale/SK_RunnerFemEx1Finale03",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Finale04": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Finale/SK_RunnerFemEx1Finale04",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Finale05": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Finale/SK_RunnerFemEx1Finale05",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Finale06": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Finale/SK_RunnerFemEx1Finale06",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Finale07": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/Finale/SK_RunnerFemEx1Finale07",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Latex03": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex03",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Latex04": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex04",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Latex05": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex05",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Latex06": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex06",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Latex07": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex07",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Latex08": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex08",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Latex09": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex09",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Latex10": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex10",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Latex11": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex11",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Latex12": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex12",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx1Latex13": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx1Latex13",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Cas01": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx2Cas01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Cas02": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx2Cas02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Cas03": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx2Cas03",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Cas04": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx2Cas04",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Cas05": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx2Cas05",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Cas06": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx2Cas06",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Cas07": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx2Cas07",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Cas08": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SK_RunnerFemEx2Cas08",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Food01": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/Food/SK_RunnerFemEx2Food01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Spr01": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SpringBreak/SK_RunnerFemEx2Spr01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Spr02": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SpringBreak/SK_RunnerFemEx2Spr02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Spr03": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SpringBreak/SK_RunnerFemEx2Spr03",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Spr04": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SpringBreak/SK_RunnerFemEx2Spr04",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Spr05": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SpringBreak/SK_RunnerFemEx2Spr05",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Spr06": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SpringBreak/SK_RunnerFemEx2Spr06",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Spr07": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/SpringBreak/SK_RunnerFemEx2Spr07",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Stage01": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/Stage/SK_RunnerFemEx2Stage01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Stage02": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/Stage/SK_RunnerFemEx2Stage02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2Stage03": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/Stage/SK_RunnerFemEx2Stage03",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2VIP01": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/VIP/SK_RunnerFemEx2VIP01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2VIP02": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/VIP/SK_RunnerFemEx2VIP02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2VIP03": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/VIP/SK_RunnerFemEx2VIP03",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2VIP04": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/VIP/SK_RunnerFemEx2VIP04",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemEx2VIP05": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieFemale/Runner/VIP/SK_RunnerFemEx2VIP05",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemFood01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemFood01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemGlam01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemGlam01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemGlam02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemGlam02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemGlam03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemGlam03",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemLife01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemLife01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemMeatSlurry01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemMeatSlurry01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemMeatSlurry02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemMeatSlurry02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemMeatSlurry03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemMeatSlurry03",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemMed01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemMed01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemMed02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemMed02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSewerCas01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSewerCas01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSewerCas02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSewerCas02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSewerCas03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSewerCas03",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSewerCas04": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSewerCas04",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSewerCas05": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSewerCas05",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSport01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSport02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSport03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport03",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSport04": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport04",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSport05": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport05",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSport06": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport06",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSport_Isa": {
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport_Isa",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSport_Isabelle": {
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport_Isabelle",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSport_Viv": {
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSport_Viv",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSwim01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSwim01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSwim02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSwim02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSwim03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSwim03",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSwim04": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSwim04",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSwim05": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSwim05",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSwim06": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSwim06",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemSwim07": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemSwim07",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemWed01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemWed01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemaleArmy01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemaleArmy01",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerFemaleArmy02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieFemale/Runner/SK_RunnerFemaleArmy02",
+   "female": true
+  },
+  "DA_ModelVariantAsset_RunnerMaleArmy01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleArmy01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleArmy02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleArmy02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCDC01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCDC01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCDC02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCDC02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCDC03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCDC03",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas02_David": {
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas02_David",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas03",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas04": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas04",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas05": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas05",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas06": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas06",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas07": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas07",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas08": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas08",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas09": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas09",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas10": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas10",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas_Aero": {
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas_Aero",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas_Julien": {
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas_Julien",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas_Mathew": {
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas_Mathew",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas_Niklas": {
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas_Niklas",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas_SebB": {
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas_SebB",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas_Soenke": {
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas_Soenke",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas_Stephan": {
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas_Stephan",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCas_Tobi": {
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCas_Tobi",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCaustic01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCaustic01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleCaustic02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleCaustic02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Cul01": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/CulDeSac/SK_RunnerMaleEx1Cul01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Cul02": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/CulDeSac/SK_RunnerMaleEx1Cul02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Cul03": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/CulDeSac/SK_RunnerMaleEx1Cul03",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Cul05": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/CulDeSac/SK_RunnerMaleEx1Cul05",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Cul06": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/CulDeSac/SK_RunnerMaleEx1Cul06",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Cul07": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/CulDeSac/SK_RunnerMaleEx1Cul07",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Cul08": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/CulDeSac/SK_RunnerMaleEx1Cul08",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Cul09": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/CulDeSac/SK_RunnerMaleEx1Cul09",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Deep01": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/Deeper/SK_RunnerMaleEx1Deep01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Deep02": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/Deeper/SK_RunnerMaleEx1Deep02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Deep04": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/Deeper/SK_RunnerMaleEx1Deep04",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Deep09": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/Deeper/SK_RunnerMaleEx1Deep09",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Finale01": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/Finale/SK_RunnerMaleEx1Finale01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Finale02": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/Finale/SK_RunnerMaleEx1Finale02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Finale03": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/Finale/SK_RunnerMaleEx1Finale03",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Finale04": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/Finale/SK_RunnerMaleEx1Finale04",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Finale05": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/Finale/SK_RunnerMaleEx1Finale05",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Finale06": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/Finale/SK_RunnerMaleEx1Finale06",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Latex03": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/SK_RunnerMaleEx1Latex03",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Latex04": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/SK_RunnerMaleEx1Latex04",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Latex05": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/SK_RunnerMaleEx1Latex05",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Latex06": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/SK_RunnerMaleEx1Latex06",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Latex07": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/SK_RunnerMaleEx1Latex07",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Latex08": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/SK_RunnerMaleEx1Latex08",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx1Latex09": {
+   "mesh": "/Game/DI2/Expansion01/Art/Characters/ZombieMale/Runner/SK_RunnerMaleEx1Latex09",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Cas01": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/SK_RunnerMaleEx2Cas01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Cas02": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/SK_RunnerMaleEx2Cas02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Cas03": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/SK_RunnerMaleEx2Cas03",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Cas04": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/SK_RunnerMaleEx2Cas04",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Cas05": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/SK_RunnerMaleEx2Cas05",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Cas06": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/SK_RunnerMaleEx2Cas06",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Cas07": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/SK_RunnerMaleEx2Cas07",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Food01": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/Food/SK_RunnerMaleEx2Food01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Food02": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/Food/SK_RunnerMaleEx2Food02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Spr01": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/SpringBreak/SK_RunnerMaleEx2Spr01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Spr02": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/SpringBreak/SK_RunnerMaleEx2Spr02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Spr03": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/SpringBreak/SK_RunnerMaleEx2Spr03",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Spr04": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/SpringBreak/SK_RunnerMaleEx2Spr04",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Spr05": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/SpringBreak/SK_RunnerMaleEx2Spr05",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Spr06": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/SpringBreak/SK_RunnerMaleEx2Spr06",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Spr07": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/SpringBreak/SK_RunnerMaleEx2Spr07",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Stage01": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/Stage/SK_RunnerMaleEx2Stage01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Stage02": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/Stage/SK_RunnerMaleEx2Stage02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2Stage03": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/Stage/SK_RunnerMaleEx2Stage03",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2VIP01": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/VIP/SK_RunnerMaleEx2VIP01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2VIP02": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/VIP/SK_RunnerMaleEx2VIP02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2VIP03": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/VIP/SK_RunnerMaleEx2VIP03",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleEx2VIP04": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombieMale/Runner/VIP/SK_RunnerMaleEx2VIP04",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleLAPD01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleLAPD01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleLAPD02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleLAPD02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleLAPD03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleLAPD03",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleLife01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleLife01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleMed01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleMed01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleMed02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleMed02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleSewer01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleSewer01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleSewer02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleSewer02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleSewerCas01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleSewerCas01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleSewerCas02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleSewerCas02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleSewerCas03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleSewerCas03",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleSewerCas04": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleSewerCas04",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleSewerCas05": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleSewerCas05",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleSport01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleSport01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleSport02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleSport02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleSwim01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleSwim01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleSwim02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleSwim02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleSwim03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleSwim03",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleSwim04": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleSwim04",
+   "female": false
+  },
+  "DA_ModelVariantAsset_RunnerMaleWW2FilmSet01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombieMale/Runner/SK_RunnerMaleWW2FilmSet01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_ShockingRunner01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/ShockingRunner/SK_ShockingRunner01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_ShockingRunner02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/ShockingRunner/SK_ShockingRunner02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_ShockingRunner03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/ShockingRunner/SK_ShockingRunner03",
+   "female": false
+  },
+  "DA_ModelVariantAsset_ShockingRunnerBagman01": {
+   "mesh": "/Game/DI2/Horde/Art/Characters/ZombiePerk/ShockingRunner/SK_ShockingRunnerBagman01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_ShockingRunnerEx201": {
+   "mesh": "/Game/DI2/Expansion02/Art/Characters/ZombiePerk/ShockingRunner/SK_ShockingRunnerEx201",
+   "female": false
+  },
+  "DA_ModelVariantAsset_SpikyRunner01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/SpikyRunner/SK_SpikyRunner01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_SpikyRunner02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/SpikyRunner/SK_SpikyRunner02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_SpikyRunner03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/SpikyRunner/SK_SpikyRunner03",
+   "female": false
+  },
+  "DA_ModelVariantAsset_ViciousRunner01": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/ViciousRunner/SK_ViciousRunner01",
+   "female": false
+  },
+  "DA_ModelVariantAsset_ViciousRunner02": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/ViciousRunner/SK_ViciousRunner02",
+   "female": false
+  },
+  "DA_ModelVariantAsset_ViciousRunner03": {
+   "mesh": "/Game/DI2/Art/Characters/ZombiePerk/ViciousRunner/SK_ViciousRunner03",
+   "female": false
+  }
+ },
+ "excluded": [
+  "DA_ModelVariantAsset_BurningFiremanRunner01",
+  "DA_ModelVariantAsset_BurningFiremanRunner02",
+  "DA_ModelVariantAsset_BurningFiremanRunner03",
+  "DA_ModelVariantAsset_BurningRunner01",
+  "DA_ModelVariantAsset_BurningRunner02",
+  "DA_ModelVariantAsset_HazmatRunnerEx201",
+  "DA_ModelVariantAsset_HazmatRunnerEx202",
+  "DA_ModelVariantAsset_LootSatchel01",
+  "DA_ModelVariantAsset_LootSatchel02",
+  "DA_ModelVariantAsset_LootSatchel03",
+  "DA_ModelVariantAsset_RunnerMaleCaustic01",
+  "DA_ModelVariantAsset_RunnerMaleCaustic02",
+  "DA_ModelVariantAsset_ShockingRunner01",
+  "DA_ModelVariantAsset_ShockingRunner02",
+  "DA_ModelVariantAsset_ShockingRunner03",
+  "DA_ModelVariantAsset_ShockingRunnerBagman01",
+  "DA_ModelVariantAsset_ShockingRunnerEx201",
+  "DA_ModelVariantAsset_SpikyRunner01",
+  "DA_ModelVariantAsset_SpikyRunner02",
+  "DA_ModelVariantAsset_SpikyRunner03",
+  "DA_ModelVariantAsset_ViciousRunner01",
+  "DA_ModelVariantAsset_ViciousRunner02",
+  "DA_ModelVariantAsset_ViciousRunner03"
+ ]
+}

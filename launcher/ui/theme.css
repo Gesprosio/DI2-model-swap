@@ -1,0 +1,30 @@
+/* Per-game theme: the only file another game's launcher needs to change. */
+:root {
+  --accent: #cf5320;
+  --accent-hover: #dc6431;
+  --accent-soft: #3a2618;
+  --accent-soft-text: #f2a877;
+
+  --bg: #16181d;
+  --panel: #1c1e24;
+  --card: #242730;
+  --card-hover: #2b2f39;
+  --chip: #2f333e;
+  --line: #2c2f38;
+
+  --text: #f1f1f4;
+  --text-2: #b8bbc6;
+  --text-3: #7d8190;
+
+  --warn-bg: #3b2a12;
+  --warn-text: #f0b35a;
+  --ok-bg: #16322a;
+  --ok-text: #7fd6b3;
+
+  --radius: 10px;
+  --radius-sm: 8px;
+  --font: "Segoe UI Variable Text", "Segoe UI", system-ui, sans-serif;
+}
+
+/* Dead Island 2: one entry per zombie type, so the "By type / By act" switch is not needed */
+#views { display: none; }
